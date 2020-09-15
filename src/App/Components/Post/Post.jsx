@@ -1,5 +1,5 @@
 import React from "react"
-import "./Post.css"
+import "./Post.scss"
 import Avatar from "@material-ui/core/Avatar"
 
 function Post({ username, caption, imageUrl }) {
